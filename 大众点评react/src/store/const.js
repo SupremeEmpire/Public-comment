@@ -1,0 +1,3 @@
+export const MENU_UPDATE = "MENU_UPDATE";
+
+export const USERINFO_UPDATE = "USERINFO_UPDATE";

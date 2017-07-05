@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mock": "node --harmony ./mock/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.4.0",
+    "cross-env": "^5.0.0",
+    "koa": "^1.2.2",
+    "koa-router": "^5.4.0"
+  },
+  "dependencies": {}
+}

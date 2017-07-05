@@ -1,0 +1,56 @@
+
+.chaozhis{
+
+    background-color: #fff;
+
+    clear: both;
+}
+
+.chaozhis h2 {
+  font-size: 16px;
+  font-weight: 800;
+  /*margin: 10px 15px;*/
+  border-bottom: 1px solid #f1f1f1;
+  overflow: hidden;
+}
+.chaozhis .ad-containers {
+  width: 100%;
+  padding: 0 15px;
+}
+.chaozhis .ad-items {
+  width: 100%;
+  padding: 10px 0;
+  height: 7rem;
+  border-bottom: 1px solid #f1f1f1;
+  /*float: left;*/
+}
+.chaozhis .ad-items img {
+  float: left;
+  width: 7rem;
+  height: 100%;
+  margin-right: 10px;
+  
+}
+h1{
+  font-size: 18px;
+  font-family: "微软雅黑";
+  font-weight: 900;
+  color: black;
+  margin: 0;
+  margin-bottom: 5px;
+  display: inline-block;
+
+}
+.right{
+  float: right;
+  font-size: 14px;
+  color: #666;
+}
+.introduce{
+  font-size: 14px;
+  color: #666;
+}
+.price{
+  color: red;
+
+}

@@ -1,0 +1,30 @@
+.search-container {
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  /*margin-top: 1.5rem;*/
+  padding-top: 0.28rem;
+  text-align: left;
+  width: 77%;
+  height: 1.8rem;
+  margin: 0 auto;
+
+}
+
+.search-container input {
+  margin: 0;
+  /*float: left;*/
+  outline: none;
+  border: none;
+  width: 90%;
+  /*display: inline-block;*/
+  font-size: 14px ;
+  /*font-weight: normal;*/
+  /*border: 0;*/
+  transition: width 2s;
+}
+.searchicon{
+  margin-left: 0.3rem;
+  font-size: 0.9rem;
+  font-weight: 900;
+}

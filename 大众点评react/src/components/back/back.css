@@ -1,0 +1,22 @@
+#common-header {
+  background-color: #e9203d;
+  color: #fff;
+  padding: 15px 10px;
+  text-align: center;
+  position: relative;
+  text-align: center;
+}
+
+#common-header .back-icon {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 10px;
+}
+.back-icon .iconleft{
+  font-size: 1.5rem;
+  color: white;
+  position: absolute;
+  top: 0.8rem;
+  left: 1rem;
+}
